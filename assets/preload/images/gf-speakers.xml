@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf-speakers.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf speakers0000" x="12" y="12" width="1151" height="535"/>
+	<SubTexture name="gf speakers0001" x="12" y="12" width="1151" height="535"/>
+	<SubTexture name="gf speakers0002" x="12" y="559" width="1151" height="533" frameX="0" frameY="0" frameWidth="1151" frameHeight="535"/>
+	<SubTexture name="gf speakers0003" x="12" y="1104" width="1151" height="533" frameX="0" frameY="0" frameWidth="1151" frameHeight="535"/>
+	<SubTexture name="gf speakers0004" x="12" y="1104" width="1151" height="533" frameX="0" frameY="0" frameWidth="1151" frameHeight="535"/>
+	<SubTexture name="gf speakers0005" x="12" y="1104" width="1151" height="533" frameX="0" frameY="0" frameWidth="1151" frameHeight="535"/>
+	<SubTexture name="gf speakers0006" x="12" y="1104" width="1151" height="533" frameX="0" frameY="0" frameWidth="1151" frameHeight="535"/>
+	<SubTexture name="gf speakers0007" x="12" y="1104" width="1151" height="533" frameX="0" frameY="0" frameWidth="1151" frameHeight="535"/>
+	<SubTexture name="gf speakers0008" x="12" y="1104" width="1151" height="533" frameX="0" frameY="0" frameWidth="1151" frameHeight="535"/>
+	<SubTexture name="gf speakers0009" x="12" y="1104" width="1151" height="533" frameX="0" frameY="0" frameWidth="1151" frameHeight="535"/>
+	<SubTexture name="gf speakers0010" x="12" y="1104" width="1151" height="533" frameX="0" frameY="0" frameWidth="1151" frameHeight="535"/>
+	<SubTexture name="gf speakers0011" x="12" y="1104" width="1151" height="533" frameX="0" frameY="0" frameWidth="1151" frameHeight="535"/>
+	<SubTexture name="gf speakers0012" x="12" y="1104" width="1151" height="533" frameX="0" frameY="0" frameWidth="1151" frameHeight="535"/>
+	<SubTexture name="gf speakers0013" x="12" y="1104" width="1151" height="533" frameX="0" frameY="0" frameWidth="1151" frameHeight="535"/>
+</TextureAtlas>

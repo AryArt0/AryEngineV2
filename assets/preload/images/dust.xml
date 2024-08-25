@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dust.png">
+<SubTexture name="dust anim0000" x="0" y="0" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="dust anim0001" x="400" y="0" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="dust anim0002" x="0" y="300" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="dust anim0003" x="400" y="300" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="dust anim0004" x="800" y="0" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="dust anim0005" x="800" y="300" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="dust anim0006" x="0" y="600" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="dust anim0007" x="400" y="600" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="dust anim0008" x="800" y="600" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="dust anim0009" x="0" y="900" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="dust anim0010" x="400" y="900" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="dust anim0011" x="800" y="900" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="dust anim0012" x="1200" y="0" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="dust anim0013" x="1200" y="300" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="dust anim0014" x="1200" y="600" width="399" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="dust anim0015" x="1200" y="900" width="399" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="dust anim0016" x="0" y="1200" width="399" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="dust anim0017" x="399" y="1200" width="399" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="dust anim0018" x="798" y="1200" width="399" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="dust anim0019" x="1197" y="1200" width="399" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+</TextureAtlas>

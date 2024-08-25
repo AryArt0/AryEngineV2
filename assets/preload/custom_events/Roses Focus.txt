@@ -1,0 +1,3 @@
+roses focus event by markedaman
+Value 1: time of fade in
+Value 2: 1 = end

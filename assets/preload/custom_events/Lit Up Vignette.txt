@@ -1,0 +1,4 @@
+Lit Up vignette event by MarkedAman
+
+Value 1: 1 = ON, 0 = OFF
+Value 2: 1 = FLASH, 2 = BLACK

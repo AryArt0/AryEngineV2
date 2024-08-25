@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="blood.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blood_sqirt10000" x="107" y="428" width="34" height="41" frameX="-18" frameY="-175" frameWidth="314" frameHeight="314"/>
+	<SubTexture name="blood_sqirt10001" x="107" y="387" width="67" height="41" frameX="-18" frameY="-165" frameWidth="314" frameHeight="314"/>
+	<SubTexture name="blood_sqirt10002" x="0" y="387" width="107" height="90" frameX="-19" frameY="-137" frameWidth="314" frameHeight="314"/>
+	<SubTexture name="blood_sqirt10003" x="192" y="238" width="175" height="205" frameX="-15" frameY="-86" frameWidth="314" frameHeight="314"/>
+	<SubTexture name="blood_sqirt10004" x="0" y="0" width="192" height="269" frameX="0" frameY="-45" frameWidth="314" frameHeight="314"/>
+	<SubTexture name="blood_sqirt10005" x="0" y="269" width="188" height="118" frameX="-91" frameY="-62" frameWidth="314" frameHeight="314"/>
+	<SubTexture name="blood_sqirt10006" x="0" y="269" width="188" height="118" frameX="-91" frameY="-62" frameWidth="314" frameHeight="314"/>
+	<SubTexture name="blood_sqirt10007" x="192" y="0" width="184" height="238" frameX="-130" frameY="0" frameWidth="314" frameHeight="314"/>
+	<SubTexture name="blood_sqirt10008" x="192" y="0" width="184" height="238" frameX="-130" frameY="0" frameWidth="314" frameHeight="314"/>
+	<SubTexture name="blood_sqirt10009" x="0" y="0" width="0" height="0" frameX="-18" frameY="-199" frameWidth="314" frameHeight="314"/>
+</TextureAtlas>

@@ -1,0 +1,7 @@
+Adds a crowd from the MarkedEngine Week 1 stage
+
+Value 1: NUMBER GOES HERE
+
+1 = Small Crowd
+2 = Fresh Crowd
+3 = Dadbattle Crowd

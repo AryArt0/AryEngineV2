@@ -1,0 +1,46 @@
+{
+	"song": {
+		"events": [
+			[
+				73600,
+				[
+					[
+						"Camera Set Target",
+						"gf",
+						""
+					]
+				]
+			],
+			[
+				75200,
+				[
+					[
+						"Camera Set Target",
+						"gf",
+						""
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Camera Set Target",
+						"gf",
+						""
+					]
+				]
+			],
+			[
+				78400,
+				[
+					[
+						"Camera Set Target",
+						"gf",
+						""
+					]
+				]
+			]
+		]
+	}
+}

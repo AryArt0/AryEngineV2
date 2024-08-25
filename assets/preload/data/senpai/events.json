@@ -1,0 +1,76 @@
+{
+	"song": {
+		"events": [
+			[
+				53333.3333333333,
+				[
+					[
+						"Senpai Pink",
+						"1",
+						""
+					],
+					[
+						"Camera Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				66666.6666666666,
+				[
+					[
+						"Camera Flash",
+						"0.5",
+						""
+					],
+					[
+						"Senpai Pink",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				73958.3333333333,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpai-angry"
+					]
+				]
+			],
+			[
+				74166.6666666666,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpai"
+					]
+				]
+			],
+			[
+				74791.6666666666,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpai-angry"
+					]
+				]
+			],
+			[
+				75000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpai"
+					]
+				]
+			]
+		]
+	}
+}

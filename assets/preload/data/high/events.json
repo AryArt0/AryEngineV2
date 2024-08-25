@@ -1,0 +1,121 @@
+{
+	"song": {
+		"events": [
+			[
+				48960,
+				[
+					[
+						"Camera Follow Pos",
+						"800",
+						"1300"
+					]
+				]
+			],
+			[
+				49440,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				49920,
+				[
+					[
+						"bgchange",
+						"cloud",
+						"c"
+					],
+					[
+						"Camera Flash",
+						"1",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.55",
+						""
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				64560,
+				[
+					[
+						"Camera Follow Pos",
+						"800",
+						"-700"
+					]
+				]
+			],
+			[
+				65160,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				65280,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						"0.5"
+					],
+					[
+						"bgremove",
+						"c",
+						""
+					],
+					[
+						"Camera Flash",
+						"0.5",
+						""
+					],
+					[
+						"Kill Henchmen",
+						"",
+						""
+					]
+				]
+			],
+			[
+				80640,
+				[
+					[
+						"Kill Henchmen",
+						"",
+						""
+					]
+				]
+			],
+			[
+				88320,
+				[
+					[
+						"Kill Henchmen",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}
